@@ -1,0 +1,19 @@
+body {
+ background: url(../Apes_Images/Ape_Astronaut3.jpeg) no-repeat center fixed;
+ background-size:cover;
+ font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+#Headline1 {
+ margin: auto;
+ color:whitesmoke;
+ text-align: center;
+ font-size: 80px;
+}
+
+#Headline1:hover {
+ background-color: rgb(19, 19, 122);
+ border-radius: 25px;
+ text-align: center;
+}
